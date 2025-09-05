@@ -1,0 +1,9 @@
+Version:Python 3.12
+
+Rely:
+pip install eth_account
+pip install web3
+pip install colorama
+
+Start:
+python PancakeSwap_BNB_Prediction.py
