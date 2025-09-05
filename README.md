@@ -22,6 +22,7 @@ Function: Predicts whether the BNB price will rise or fall in 5 minutes, based o
 | [SmartChef Factory](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/smartchef) | SmartChef (a.k.a. Syrup Pools) Factory | 0.6.12 (v1) / 0.8.4 (v2) |
 
 **Test record screenshots**
+
 <img width="865" height="592" alt="image" src="https://github.com/user-attachments/assets/939420fa-f17f-43d3-b9b2-87fc5d1697d1" />
 <img width="865" height="521" alt="image" src="https://github.com/user-attachments/assets/aa1b2a5e-bf79-4952-88eb-dad5445d71ae" />
 <img width="865" height="492" alt="image" src="https://github.com/user-attachments/assets/a609a84f-c09f-4e43-afb7-b3c2b013645f" />
